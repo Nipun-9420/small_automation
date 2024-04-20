@@ -26,7 +26,7 @@ module test;
                 #10;
                 end
             end
-        end
+        enda
         $finish;
     end
 endmodule   

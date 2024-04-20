@@ -1,0 +1,101 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Lock_out",
+					"strict" : false
+				},
+				{
+					"name" : "light_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "light_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "light_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "light_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "fan_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "fan_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "fan_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FAN",
+					"strict" : false
+				},
+				{
+					"name" : "AC",
+					"strict" : false
+				},
+				{
+					"name" : "WIND",
+					"strict" : false
+				},
+				{
+					"name" : "PA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "light[0]",
+					"strict" : false
+				},
+				{
+					"name" : "light[1]",
+					"strict" : false
+				},
+				{
+					"name" : "light[2]",
+					"strict" : false
+				},
+				{
+					"name" : "light[3]",
+					"strict" : false
+				},
+				{
+					"name" : "TEMP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "TEMP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "TEMP[3]",
+					"strict" : false
+				},
+				{
+					"name" : "TEMP[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
