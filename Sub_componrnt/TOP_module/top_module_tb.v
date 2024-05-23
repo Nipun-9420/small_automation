@@ -35,4 +35,8 @@ initial
         light <= 4'b0111 ;TEMP<=1100; #10;
   $finish;
 end
-endmodule
+endmodulez
+
+
+
+
